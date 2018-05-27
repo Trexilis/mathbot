@@ -2,8 +2,8 @@
 
 # Turing Completeness
 
-See `{{prefic}}help calc-more` for a list of basic builtin functions.
-See `{{prefix}}help turing-library` for builtin functions that operate over more complicated data structures.
+See `{{prefix}}help calc-more` for a list of basic builtin functions.
+See `{{prefix}}help turing-functions` for builtin functions that operate over more complicated data structures.
 
 ## Introduction
 
